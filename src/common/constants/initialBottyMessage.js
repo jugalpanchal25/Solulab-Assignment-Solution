@@ -1,0 +1,1 @@
+export default 'Hello! I am Botty.';
